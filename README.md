@@ -102,10 +102,29 @@ $ python demo.py --help
 The figure demonstrates an example of output for default parameter settings. Dataset consist of LR matrices that are 35x35 and HR matrices that are 160x160.
 ![Example Result](images/example_result.png)
 
+
+## YouTube videos to install and run the code and understand how L2S-KDnet works
+
+To install and run L2S-KDnet, check the following YouTube video: 
+
+https://youtu.be/6RJebfo6ETc
+
+To learn about how L2S-KDnet works, check the following YouTube video: 
+
+https://youtu.be/lvEfNG5AO_E
+
+
 # L2S-KDnet paper on arXiv:
 
-Coming up soon.
+https://arxiv.org/abs/2110.03452
 
 # Please cite the following paper when using L2S-KDnet:
 
-Coming up soon.
+@incollection{demir2021inter,
+  title={Inter-domain Alignment for Predicting High-Resolution Brain Networks Using Teacher-Student Learning},
+  author={Demir, Ba{\c{s}}ar and Bessadok, Alaa and Rekik, Islem},
+  booktitle={Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health},
+  pages={203--215},
+  year={2021},
+  publisher={Springer}
+}
