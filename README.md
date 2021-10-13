@@ -119,7 +119,7 @@ https://youtu.be/lvEfNG5AO_E
 https://arxiv.org/abs/2110.03452
 
 # Please cite the following paper when using L2S-KDnet:
-
+```latex
 @incollection{demir2021inter,
   title={Inter-domain Alignment for Predicting High-Resolution Brain Networks Using Teacher-Student Learning},
   author={Demir, Ba{\c{s}}ar and Bessadok, Alaa and Rekik, Islem},
@@ -128,3 +128,4 @@ https://arxiv.org/abs/2110.03452
   year={2021},
   publisher={Springer}
 }
+```
